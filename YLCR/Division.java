@@ -20,4 +20,4 @@ class Division { // Clase que representa la operación de división
     public void setB(int b) { // Método set para asignar un valor a 'b'
         this.b = b; // Asigna el valor pasado como parámetro al atributo 'b'
     } // Fin método set
-}
+} // Fin de la clase
